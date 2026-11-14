@@ -1,0 +1,105 @@
+Ramlah Muhammad Abdallah – Personal Portfolio Website
+
+1. Project Overview
+
+This project is a personal portfolio website developed by Ramlah Muhammad Abdallah, an Information Technology and Software Engineering student aspiring to become a Software Engineer.
+
+The website showcases my personal background, educational journey, interests, projects, and professional aspirations.
+
+It was developed as part of my Web Technologies practical assessment.
+
+2. Project Purpose
+
+The purpose of this project is to:
+
+- Build and demonstrate practical web development skills.
+- Create a professional online presence.
+- Showcase my academic background and projects.
+- Practise HTML, CSS, and JavaScript.
+- Develop a responsive and user-friendly website.
+
+3. Technologies Used
+
+- HTML5: Used to structure the website content.
+- CSS3: Used for styling, layout, and responsive design.
+- JavaScript: Used to provide interactive functionality.
+- Git and GitHub: Used for version control and project hosting.
+- GitHub Pages: Used to publish the website online.
+
+4. Website Pages and Features
+
+The website consists of five main pages:
+
+Home Page
+
+- Personal introduction.
+- Profile photograph.
+- Navigation menu.
+- Audio introduction.
+
+About Me Page
+
+- Personal background.
+- Educational information.
+- Skills, interests, and aspirations.
+
+Projects Page
+
+- Displays my projects with screenshots.
+- Includes project descriptions.
+- Provides links to relevant projects and repositories.
+
+Academic Planner
+
+- Provides an academic task management interface.
+- Supports organising academic activities.
+
+Contact Page
+
+- Provides a contact form for visitors.
+- Allows visitors to submit their contact information and messages.
+
+5. Project Screenshots
+
+The project screenshots included in the repository are:
+
+- "portfolio.png"
+- "planner.png"
+- "github.png"
+
+6. Project Structure
+
+The project contains the following main files:
+
+- "index.html" – Home page.
+- "about.html" – About Me page.
+- "projects.html" – Projects page.
+- "planner.html" – Academic Planner page.
+- "contact.html" – Contact page.
+- "style.css" – Website styling.
+- "planner.js" – Academic Planner functionality.
+- "contact.js" – Contact form functionality.
+
+Additional files include images, profile photography, and the audio introduction.
+
+7. Website Deployment
+
+The website is hosted using GitHub Pages.
+
+Live Website:
+https://ramlatou-067.github.io/ramlah-portfolio-/
+
+GitHub Repository:
+https://github.com/ramlatou-067/ramlah-portfolio-
+
+8. Developer
+
+Name: Ramlah Muhammad Abdallah
+
+Field of Study: Information Technology and Software Engineering
+
+Career Aspiration: Software Engineer
+
+---
+
+© 2026 Ramlah Muhammad Abdallah. All Rights Reserved.
